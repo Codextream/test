@@ -7,5 +7,5 @@
 - Open sourcing 
 - Data Science
 - ML Basics - Where to start
-- [Competitive Programming](_files/CP_intro)
-- [Arduino Fundamentals](_files/Arduino)
+- [Competitive Programming](_files/CP_intro.md)
+- [Arduino Fundamentals](_files/Arduino.md)
