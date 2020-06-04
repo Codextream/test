@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Programming Resources
 
 ![image](https://miro.medium.com/max/882/1*s1eujpuDLZR6wAneop0BMQ.png) 
