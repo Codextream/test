@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Arduino: Initiation
 
 ![image](https://hi-static.z-dn.net/files/d1a/4931049ead869a8ee5f4120f6780445f.png) 
